@@ -63,7 +63,6 @@ INFINI8 runs entirely in the browser with no download or install required. Open 
 <div align="center">
   <img width="280" alt="mobile_peugeot_player" src="assets/mobile_peugeot_player.png" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="280" alt="mobile_peugeot_nepali" src="assets/mobile_peugeot_nepali.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="280" alt="mobile_dream_planet" src="assets/mobile_dream_planet.png" />
 </div>
 
 ---
