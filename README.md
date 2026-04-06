@@ -1,6 +1,6 @@
 # INFINI8
 
-<img width="1400" alt="infini8_drift" src="screenshot_drift.png" />
+<img width="1400" alt="infini8_drift" src="assets/screenshot_drift.png" />
 
 ---
 
@@ -14,7 +14,7 @@ INFINI8 is a browser-based driving experience built on [Three.js](https://threej
 
 Unlike anything else available in the browser today, the world is fully infinite and procedurally generated in real time using fractional Brownian motion, meaning the terrain, road curvature, celestial objects, ambient particles, and scattered world geometry all form themselves on the fly as you drive. You can go for hours and the road keeps going. Load times are instant because there is nothing to load.
 
-<img width="1400" alt="dc_close_to_me" src="dc_close_to_me.png" />
+<img width="1400" alt="dc_close_to_me" src="assets/dc_close_to_me.png" />
 
 ---
 
@@ -28,13 +28,13 @@ The terrain is generated in real time using layered noise functions so no two st
 
 There are two cars as of now, selectable from the bottom of the screen. The **Peugeot 205 GTI** is a detailed glTF model with a low aggressive stance, Sparco bucket seats visible from the cockpit camera, and a raw mechanical feel that suits the retro aesthetic of the world. The **Dream Cruiser** is a rounder otherworldly shape that glows with its own neon light and feels at home in the alien landscape. Both vehicles have full physics simulation, shadow casting, and ambient occlusion throughout.
 
-<img width="1400" alt="dc_closeup" src="dc_closeup.png" />
+<img width="1400" alt="dc_closeup" src="assets/dc_closeup.png" />
 
 ### Spotify Integration with Live Synced Lyrics
 
 Connect your Spotify account and your currently playing track streams directly into the game. Music is also supported natively and isn't dependent on Spotify, and it supports any language with live lyrics on screen. The album art appears in the mini player panel in the top right corner. You can also paste any `open.spotify.com/track/...` URL directly into the FM PLAY popup to queue a specific song without leaving the game.
 
-<img width="1400" alt="screenshot_spotify" src="screenshot_spotify.png" />
+<img width="1400" alt="screenshot_spotify" src="assets/screenshot_spotify.png" />
 
 ### 7 Camera Modes
 
@@ -61,9 +61,9 @@ INFINI8 runs entirely in the browser with no download or install required. Open 
 <br />
 
 <div align="center">
-  <img width="280" alt="mobile_peugeot_player" src="mobile_peugeot_player.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="280" alt="mobile_peugeot_nepali" src="mobile_peugeot_nepali.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="280" alt="mobile_dream_planet" src="mobile_dream_planet.png" />
+  <img width="280" alt="mobile_peugeot_player" src="assets/mobile_peugeot_player.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="280" alt="mobile_peugeot_nepali" src="assets/mobile_peugeot_nepali.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="280" alt="mobile_dream_planet" src="assets/mobile_dream_planet.png" />
 </div>
 
 ---
